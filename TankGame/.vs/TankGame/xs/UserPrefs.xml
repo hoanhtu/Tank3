@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChangeScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HelthyBar.cs" Line="22" Column="9" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/SolidierGun.cs" />
+      <File FileName="Assets/Scripts/SoldierMain.cs" />
+      <File FileName="Assets/Scripts/ManaBullet.cs" Line="52" Column="32" />
+      <File FileName="Assets/Ultimate 2D Trajectory Predictor/trajectoryScript.cs" />
+      <File FileName="Assets/Scripts/ManaTank.cs" />
+      <File FileName="Assets/Scripts/HealthBarTank.cs" />
+      <File FileName="Assets/ChangeScene.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TankGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Enemy-Soldier" expanded="True">
+                <Node name="Enemy-Soldier" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="Ultimate 2D Trajectory Predictor" expanded="True" />
+              <Node name="ChangeScene.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3d501a7-8138-40a4-88d6-23b21ba366dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
